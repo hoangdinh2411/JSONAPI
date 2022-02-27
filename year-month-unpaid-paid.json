@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "paidFeeLawyers": [
+    {
+      "_id": "62134cf507c1eb2ac190a8a9",
+      "fullname": "Mryasuo",
+      "province": "Hà Nội",
+      "expertise": "yasuo",
+      "area": "San Francisco",
+      "lawyerCode": "abc",
+      "paidFee": {
+        "_id": "6215d37048477164e9d3d1ad",
+        "type": "Phi thang 1",
+        "month": 1,
+        "year": 2022,
+        "createdAt": "2022-02-23T06:25:52.116Z",
+        "updatedAt": "2022-02-23T06:25:52.116Z",
+        "__v": 0
+      }
+    }
+  ],
+  "unpaidFeeLawyers": [
+    {
+      "_id": "62134cf507c1eb2ac190a8a9",
+      "fullname": "Mryasuo",
+      "province": "Hà Nội",
+      "expertise": "yasuo",
+      "area": "San Francisco",
+      "lawyerCode": "abc",
+      "unpaidFee": {
+        "_id": "6215d37048477164e9d3d1ad",
+        "type": "Phi thang 1",
+        "month": 1,
+        "year": 2022,
+        "createdAt": "2022-02-23T06:25:52.116Z",
+        "updatedAt": "2022-02-23T06:25:52.116Z",
+        "__v": 0
+      }
+    },
+    {
+      "_id": "6215e7ac1e082bf1808e6bcf",
+      "fullname": "Mryasuo",
+      "province": "Hà Nội",
+      "expertise": "yasuo",
+      "area": "San Francisco",
+      "lawyerCode": "efg",
+      "unpaidFee": {
+        "_id": "6215d37048477164e9d3d1ad",
+        "type": "Phi thang 1",
+        "month": 1,
+        "year": 2022,
+        "createdAt": "2022-02-23T06:25:52.116Z",
+        "updatedAt": "2022-02-23T06:25:52.116Z",
+        "__v": 0
+      }
+    },
+    {
+      "_id": "6215e7ac1e082bf1808e6bcf",
+      "fullname": "Mryasuo",
+      "province": "Hà Nội",
+      "expertise": "yasuo",
+      "area": "San Francisco",
+      "lawyerCode": "efg",
+      "unpaidFee": {
+        "_id": "6215d37248477164e9d3d1b3",
+        "type": "Prerequisite Fee",
+        "month": 1,
+        "year": 2022,
+        "createdAt": "2022-02-23T06:25:54.141Z",
+        "updatedAt": "2022-02-23T06:25:54.141Z",
+        "__v": 0
+      }
+    }
+  ],
+  "totalPaidPage": 1,
+  "totalUnpaidPage": 1,
+  "totalPaidLength": 1,
+  "totalUnpaidLength": 3
+}
